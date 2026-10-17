@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/intake/intake-sql/commit/052cde14156fa2077655d0fc6115e11c2e9f4174",
       "git:hexsha": "052cde14156fa2077655d0fc6115e11c2e9f4174",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.4.0"
     },
     {
